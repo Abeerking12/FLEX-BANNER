@@ -8,21 +8,20 @@ def progress_bar(current, total, bar_length=35):
     fraction = current / total
     arrow = int(fraction * bar_length - 1) * '=' + '>'
     padding = int(bar_length - len(arrow)) * ' '
-    ending = '\n' if current == total else '\r'
-    sys.stdout.write(f"\033[1;31m[REPORTING] \033[1;37m[\033[1;32m{arrow}{padding}\033[1;37m] {int(fraction*100)}% ")
+    sys.stdout.write(f"\033[1;31m[REPORTING] \033[1;37m[\033[1;32m{arrow}{padding}\033[1;37m] {int(fraction*100)}% \r")
     sys.stdout.flush()
 
 # Clear screen
 print("\033[H\033[J")
 
 # FLEX ZONE Banner Section
-print("\033[1;34m") # Blue Color for FLEX ZONE
-print("  ______ _      ________   __  __________  _   _ ______ ")
-print(" |  ____| |    |  ____\ \ / / |___  / __ \| \ | |  ____|")
-print(" | |__  | |    | |__   \ V /     / / |  | |  \| | |__   ")
-print(" |  __| | |    |  __|   > <     / /| |  | | . ' |  __|  ")
-print(" | |    | |____| |____ / . \   / /_| |__| | |\  | |____ ")
-print(" |_|    |______|______/_/ \_\ /_____\____/|_| \_|______|")
+print("\033[1;34m") 
+print(r"  ______ _      ________   __  __________  _   _ ______ ")
+print(r" |  ____| |    |  ____\ \ / / |___  / __ \| \ | |  ____|")
+print(r" | |__  | |    | |__   \ V /     / / |  | |  \| | |__   ")
+print(r" |  __| | |    |  __|   > <     / /| |  | | . ' |  __|  ")
+print(r" | |    | |____| |____ / . \   / /_| |__| | |\  | |____ ")
+print(r" |_|    |______|______/_/ \_\ /_____\____/|_| \_|______|")
 print("\n            >>> POWERED BY: FLEX ZONE <<<")
 print("\033[0m")
 
@@ -50,6 +49,4 @@ print(f"\033[1;37m[+] Target: \033[1;31m{link}")
 print("\033[1;32m[+] System Message: Channel flagged by Flex Zone for permanent ban.\033[0m")
 EOF
 
-# Run it
 python report_tool.py
-
