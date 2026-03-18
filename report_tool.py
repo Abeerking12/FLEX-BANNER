@@ -1,14 +1,14 @@
 import time
 import sys
 import random
-import webbrowser
+import os
 
 # ========= SETTINGS =========
 CHANNEL_LINK = "https://whatsapp.com/channel/0029Vb75PfXChq6SdkyVaF0A"
 
 # ========= FUNCTIONS =========
 
-def type_writer(text, delay=0.03):
+def type_writer(text, delay=0.02):
     for char in text:
         sys.stdout.write(char)
         sys.stdout.flush()
@@ -25,7 +25,7 @@ def progress_bar(current, total, bar_length=30):
     sys.stdout.flush()
 
 def banner():
-    print("\033[H\033[J")
+    print("\033[H\033[J")  # clear screen
     print("\033[1;31m")
     print(" ███████╗██╗     ███████╗██╗  ██╗    ███████╗ ██████╗ ███╗   ██╗███████╗")
     print(" ██╔════╝██║     ██╔════╝╚██╗██╔╝    ██╔════╝██╔═══██╗████╗  ██║██╔════╝")
@@ -41,9 +41,9 @@ def banner():
 def simulation():
     link = input("\033[1;33m[INPUT] Enter Target Channel Link: \033[0m")
 
-    type_writer("\n[+] Initializing FLEX ZONE Protocol...", 0.03)
-    type_writer("[+] Bypassing Security Layers...", 0.03)
-    type_writer("[+] Establishing Encrypted Tunnel...", 0.03)
+    type_writer("\n[+] Initializing FLEX ZONE Protocol...")
+    type_writer("[+] Bypassing Security Layers...")
+    type_writer("[+] Establishing Encrypted Tunnel...")
 
     logs = [
         "Scanning target metadata...",
@@ -88,8 +88,8 @@ while True:
         simulation()
 
     elif choice == "2":
-        print("\n\033[1;36mOpening your channel...\033[0m")
-        webbrowser.open(CHANNEL_LINK)
+        print("\n\033[1;36mOpening your WhatsApp channel...\033[0m")
+        os.system(f'termux-open-url "{CHANNEL_LINK}"')
         time.sleep(2)
 
     elif choice == "0":
