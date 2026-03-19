@@ -1,17 +1,35 @@
-# 🔥 FLEX ZONE REPORT TOOL
+# ⚡ FLEX ZONE TERMINAL
 
-A terminal-based simulation tool with a professional progress bar and banner.
+> A powerful terminal-based simulation tool with a cinematic UI, smooth animations, and a hacker-style interface.
 
-⚠️ This tool is for educational purposes only.
+---
+
+## 🌌 Overview
+
+**FLEX ZONE TERMINAL** is a visually enhanced CLI simulation tool designed for educational and UI demonstration purposes.  
+It features dynamic progress bars, animated logs, and a professional terminal experience.
 
 ---
 
 ## ✨ Features
 
-- 10x Channel Fuck🎨
-- Smooth progress ⚡
-- FLEX ZONE banner Latest 💻
-- reporting installing system 🚀
+- 🎨 Advanced Terminal UI (Colorful + Clean)
+- ⚡ Smooth Progress Animation
+- ⌨️ Typing Effect System
+- 🔥 Cinematic Hacker-Style Interface
+- 📡 Live Simulation Logs
+- 🔗 Integrated Channel Shortcut
+- 🧠 Menu-Based Navigation System
+
+---
+
+## 🖥️ Preview
+
+```bash
+[INPUT] Enter Target Channel Link
+[SCANNING] Fetching data...
+[PROCESS] ████████████████████ 100%
+[ALERT] System Triggered!
 
 ---
 
