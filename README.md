@@ -3,7 +3,7 @@
 
 <img src="banner.png" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=25&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;FLEX+UNKNOWN PERSON;POWERED+BY+THELEVEL8)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=25&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;FLEX+UNKNOWN+PERSON;POWERED+BY+THELEVEL8)
 
 <br>
 
@@ -23,7 +23,7 @@ FLEX ZONE OFFICIAL is a **cinematic CLI tool** designed for:
 
 - ⚡ Advanced terminal visuals  
 - 💻 Smooth More  
-- 🎯 Real-time 
+- 🎯 Real-time  
 - 🔥 Hacker-Banner  
 
 ---
@@ -37,7 +37,7 @@ FLEX ZONE OFFICIAL is a **cinematic CLI tool** designed for:
 + ⌨️ Typing Animation Engine
 + 🎮 Interactive Menu System
 + 🔗 Direct WhatsApp Channel Access
-+ 💀 Cinematic Looking l
++ 💀 Cinematic Looking
 ---
 
 ## 📦 Installation (Termux)
