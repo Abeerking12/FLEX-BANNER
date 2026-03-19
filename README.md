@@ -30,7 +30,7 @@ FLEX ZONE OFFICIAL is a **cinematic CLI tool** designed for:
 
 ## ⚡ FEATURES
 
-```diff
+
 + 🔴 Ultra Pro Banning
 + ⚡ Very Fan Channel ban
 + 📡 Real-Time Reports
