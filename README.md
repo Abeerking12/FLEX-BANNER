@@ -3,7 +3,7 @@
 
 <img src="banner.png" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=25&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;HACKER+STYLE+INTERFACE;POWERED+BY+THELEVEL8)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=25&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;FLEX+UNKNOWN PERSON;POWERED+BY+THELEVEL8)
 
 <br>
 
