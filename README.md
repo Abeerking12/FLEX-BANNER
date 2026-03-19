@@ -2,16 +2,16 @@
 
 A terminal-based simulation tool with a professional progress bar and banner.
 
-⚠️ This tool is for educational and UI demonstration purposes only.
+⚠️ This tool is for educational purposes only.
 
 ---
 
 ## ✨ Features
 
-- Colorful terminal UI 🎨
-- Smooth progress animation ⚡
-- Custom FLEX ZONE banner 💻
-- Fake reporting simulation system 🚀
+- 10x Channel Fuck🎨
+- Smooth progress ⚡
+- FLEX ZONE banner Latest 💻
+- reporting installing system 🚀
 
 ---
 
