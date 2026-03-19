@@ -1,36 +1,37 @@
-# ⚡ FLEX ZONE TERMINAL
 
-> A powerful terminal-based simulation tool with a cinematic UI, smooth animations, and a hacker-style interface.
+# ⚡ FLEX ZONE TERMINAL ⚡
+<div align="center">
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;HACKER+STYLE+INTERFACE;POWERED+BY+THELEVEL8)
 
-## 🌌 Overview
-
-**FLEX ZONE TERMINAL** is a visually enhanced CLI simulation tool designed for educational and UI demonstration purposes.  
-It features dynamic progress bars, animated logs, and a professional terminal experience.
+</div>
 
 ---
 
-## ✨ Features
+## 🧠 SYSTEM OVERVIEW
 
-- 🎨 Advanced Terminal UI (Colorful + Clean)
-- ⚡ Smooth Progress Animation
-- ⌨️ Typing Effect System
-- 🔥 Cinematic Hacker-Style Interface
-- 📡 Live Simulation Logs
-- 🔗 Integrated Channel Shortcut
-- 🧠 Menu-Based Navigation System
+> ⚠️ **HIGH-LEVEL TERMINAL SIMULATION ENGINE**
+
+FLEX ZONE TERMINAL is a **cinematic command-line interface tool** built for  
+🔥 **visual simulation, terminal aesthetics, and advanced UI experience**  
+
+Designed with:
+- ⚡ High-speed rendering
+- 💀 Hacker-style visuals
+- 🎯 Smooth interaction system
 
 ---
 
-## 🖥️ Preview
+## ⚡ CORE FEATURES
 
-```bash
-[INPUT] Enter Target Channel Link
-[SCANNING] Fetching data...
-[PROCESS] ████████████████████ 100%
-[ALERT] System Triggered!
-
+```diff
++ 🔴 Dynamic Red-Themed Hacker UI
++ ⚡ Ultra Smooth Progress Engine
++ 📡 Real-Time Simulation Logs
++ ⌨️ Typing Animation System
++ 🎮 Menu-Based Navigation
++ 🔗 Direct WhatsApp Channel Integration
++ 🧠 Lightweight & Fast Execution
 ---
 
 ## 📦 Installation (Termux)
