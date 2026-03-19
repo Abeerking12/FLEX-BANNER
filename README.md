@@ -1,4 +1,4 @@
-# ⚡ FLEX ZONE TERMINAL ⚡
+# ⚡ FLEX ZONE OFFICIAL ⚡
 <div align="center">
 
 <img src="banner.png" width="100%" />
@@ -17,27 +17,27 @@
 
 ## 💀 SYSTEM CORE
 
-> ⚠️ **HIGH-PERFORMANCE TERMINAL SIMULATION ENGINE**
+> ⚠️ **HIGH-PERFORMANCE SIMULATION ENGINE**
 
-FLEX ZONE TERMINAL is a **cinematic CLI tool** designed for:
+FLEX ZONE OFFICIAL is a **cinematic CLI tool** designed for:
 
 - ⚡ Advanced terminal visuals  
-- 💻 Smooth animations  
-- 🎯 Real-time simulation experience  
-- 🔥 Hacker-style interface  
+- 💻 Smooth More  
+- 🎯 Real-time 
+- 🔥 Hacker-Banner  
 
 ---
 
 ## ⚡ FEATURES
 
 ```diff
-+ 🔴 Ultra Red Hacker Theme
-+ ⚡ Lightning Fast Execution
-+ 📡 Real-Time Simulation Logs
++ 🔴 Ultra Pro Banning
++ ⚡ Very Fan Channel ban
++ 📡 Real-Time Reports
 + ⌨️ Typing Animation Engine
 + 🎮 Interactive Menu System
 + 🔗 Direct WhatsApp Channel Access
-+ 💀 Cinematic Terminal Feel
++ 💀 Cinematic Looking l
 ---
 
 ## 📦 Installation (Termux)
