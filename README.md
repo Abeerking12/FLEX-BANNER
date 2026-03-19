@@ -1,37 +1,43 @@
-
 # ⚡ FLEX ZONE TERMINAL ⚡
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;HACKER+STYLE+INTERFACE;POWERED+BY+THELEVEL8)
+<img src="https://i.imgur.com/8Km9tLL.gif" width="100%" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=25&lines=FLEX+ZONE+TERMINAL;ADVANCED+CLI+SIMULATION;HACKER+STYLE+INTERFACE;POWERED+BY+THELEVEL8)
+
+<br>
+
+![GitHub stars](https://img.shields.io/github/stars/Abeerking12/FLEX-BANNER?color=red&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Abeerking12/FLEX-BANNER?color=red&style=for-the-badge)
+![Repo size](https://img.shields.io/github/repo-size/Abeerking12/FLEX-BANNER?color=red&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 SYSTEM OVERVIEW
+## 💀 SYSTEM CORE
 
-> ⚠️ **HIGH-LEVEL TERMINAL SIMULATION ENGINE**
+> ⚠️ **HIGH-PERFORMANCE TERMINAL SIMULATION ENGINE**
 
-FLEX ZONE TERMINAL is a **cinematic command-line interface tool** built for  
-🔥 **visual simulation, terminal aesthetics, and advanced UI experience**  
+FLEX ZONE TERMINAL is a **cinematic CLI tool** designed for:
 
-Designed with:
-- ⚡ High-speed rendering
-- 💀 Hacker-style visuals
-- 🎯 Smooth interaction system
+- ⚡ Advanced terminal visuals  
+- 💻 Smooth animations  
+- 🎯 Real-time simulation experience  
+- 🔥 Hacker-style interface  
 
 ---
 
-## ⚡ CORE FEATURES
+## ⚡ FEATURES
 
 ```diff
-+ 🔴 Dynamic Red-Themed Hacker UI
-+ ⚡ Ultra Smooth Progress Engine
++ 🔴 Ultra Red Hacker Theme
++ ⚡ Lightning Fast Execution
 + 📡 Real-Time Simulation Logs
-+ ⌨️ Typing Animation System
-+ 🎮 Menu-Based Navigation
-+ 🔗 Direct WhatsApp Channel Integration
-+ 🧠 Lightweight & Fast Execution
++ ⌨️ Typing Animation Engine
++ 🎮 Interactive Menu System
++ 🔗 Direct WhatsApp Channel Access
++ 💀 Cinematic Terminal Feel
 ---
 
 ## 📦 Installation (Termux)
